@@ -30,9 +30,9 @@ null,
 {"id":28,"expanded":false,"name":"Ante Sala de Las Habitaciones","order":26,"parentId":16,"scrollX":666,"scrollY":299},
 {"id":29,"expanded":false,"name":"San Pedro Y Miquelon","order":28,"parentId":16,"scrollX":1099,"scrollY":803},
 {"id":30,"expanded":false,"name":"El Baul Maldito","order":29,"parentId":16,"scrollX":534,"scrollY":319},
-{"id":31,"expanded":false,"name":"Cruze","order":32,"parentId":17,"scrollX":799,"scrollY":299},
+{"id":31,"expanded":false,"name":"Cruze","order":32,"parentId":17,"scrollX":906,"scrollY":297},
 {"id":32,"expanded":true,"name":"Entrada Al Castillo","order":33,"parentId":17,"scrollX":641,"scrollY":1972},
-{"id":33,"expanded":false,"name":"Hall del Castillo","order":34,"parentId":32,"scrollX":534,"scrollY":319},
+{"id":33,"expanded":false,"name":"Hall del Castillo","order":34,"parentId":32,"scrollX":534,"scrollY":305},
 {"id":34,"expanded":false,"name":"Sala del Trono","order":35,"parentId":32,"scrollX":534,"scrollY":367},
 {"id":35,"expanded":false,"name":"Habitacion de Santiago","order":27,"parentId":28,"scrollX":534,"scrollY":319}
 ]
