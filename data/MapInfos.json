@@ -41,8 +41,9 @@ null,
 {"id":39,"expanded":true,"name":"Techo","order":39,"parentId":1,"scrollX":534,"scrollY":305},
 {"id":40,"expanded":false,"name":"Atico","order":40,"parentId":39,"scrollX":542,"scrollY":305},
 {"id":41,"expanded":false,"name":"Sala de Patentado de Salas","order":41,"parentId":39,"scrollX":534,"scrollY":415},
-{"id":42,"expanded":false,"name":"Tejado","order":42,"parentId":39,"scrollX":534,"scrollY":707},
-{"id":43,"expanded":false,"name":"Iglesia Pastafarista","order":43,"parentId":39,"scrollX":534,"scrollY":655},
-{"id":44,"expanded":false,"name":"Torre Magosa","order":44,"parentId":39,"scrollX":534,"scrollY":703},
-{"id":45,"expanded":false,"name":"Sala con Lava y Veneno","order":45,"parentId":39,"scrollX":534,"scrollY":297}
+{"id":42,"expanded":false,"name":"Tejado","order":42,"parentId":39,"scrollX":832,"scrollY":640},
+{"id":43,"expanded":false,"name":"Iglesia Pastafarista","order":43,"parentId":39,"scrollX":832,"scrollY":640},
+{"id":44,"expanded":false,"name":"Torre Magosa","order":45,"parentId":39,"scrollX":534,"scrollY":415},
+{"id":45,"expanded":false,"name":"Sala con Lava y Veneno","order":44,"parentId":39,"scrollX":534,"scrollY":337},
+{"id":46,"expanded":false,"name":"Parrilla de Veganos","order":46,"parentId":39,"scrollX":0,"scrollY":0}
 ]
