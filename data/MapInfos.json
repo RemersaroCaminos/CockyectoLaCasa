@@ -41,7 +41,7 @@ null,
 {"id":39,"expanded":true,"name":"Techo","order":39,"parentId":1,"scrollX":582.5454545454546,"scrollY":332.72727272727275},
 {"id":40,"expanded":false,"name":"Atico","order":40,"parentId":39,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
 {"id":41,"expanded":false,"name":"Sala de Patentado de Salas","order":41,"parentId":39,"scrollX":582.5454545454546,"scrollY":332.72727272727275},
-{"id":42,"expanded":false,"name":"Tejado","order":42,"parentId":39,"scrollX":582.5454545454546,"scrollY":356.72727272727275},
-{"id":43,"expanded":false,"name":"Iglesia Pastafarista","order":43,"parentId":39,"scrollX":582.5454545454546,"scrollY":332.72727272727275},
-{"id":44,"expanded":false,"name":"Torre Magosa","order":44,"parentId":39,"scrollX":582.5454545454546,"scrollY":675.2727272727273}
+{"id":42,"expanded":false,"name":"Tejado","order":42,"parentId":39,"scrollX":582.5454545454546,"scrollY":332.72727272727275},
+{"id":43,"expanded":false,"name":"Iglesia Pastafarista","order":43,"parentId":39,"scrollX":832,"scrollY":640},
+{"id":44,"expanded":false,"name":"Torre Magosa","order":44,"parentId":39,"scrollX":832,"scrollY":640}
 ]
