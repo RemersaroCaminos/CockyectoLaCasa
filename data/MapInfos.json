@@ -64,7 +64,7 @@ null,
 {"id":62,"expanded":false,"name":"Sala de Estar","order":60,"parentId":59,"scrollX":474.6666666666667,"scrollY":352.8888888888889},
 {"id":63,"expanded":false,"name":"Expocicion de Armas","order":61,"parentId":59,"scrollX":534,"scrollY":319},
 {"id":64,"expanded":false,"name":"Cocina","order":62,"parentId":59,"scrollX":534,"scrollY":315},
-{"id":65,"expanded":false,"name":"Escalera","order":63,"parentId":59,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
+{"id":65,"expanded":false,"name":"Escalera","order":63,"parentId":59,"scrollX":911.2,"scrollY":506.4},
 {"id":66,"expanded":false,"name":"Pasillo Este","order":64,"parentId":59,"scrollX":582.5454545454546,"scrollY":332.72727272727275},
 {"id":67,"expanded":false,"name":"Llave del Leon","order":65,"parentId":59,"scrollX":832,"scrollY":640}
 ]
