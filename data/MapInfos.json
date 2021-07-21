@@ -67,5 +67,5 @@ null,
 {"id":65,"expanded":false,"name":"Escalera","order":63,"parentId":59,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
 {"id":66,"expanded":false,"name":"Pasillo Este","order":64,"parentId":59,"scrollX":582.5454545454546,"scrollY":332.72727272727275},
 {"id":67,"expanded":false,"name":"Llave del Leon","order":65,"parentId":59,"scrollX":832,"scrollY":640},
-{"id":68,"expanded":false,"name":"Campo Pokemon","order":68,"parentId":17,"scrollX":915.4285714285713,"scrollY":522.8571428571428}
+{"id":68,"expanded":false,"name":"Campo Pokemon","order":68,"parentId":17,"scrollX":711,"scrollY":759}
 ]
