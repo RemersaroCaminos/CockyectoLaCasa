@@ -106,7 +106,7 @@ null,
 {"id":104,"expanded":false,"name":"Fundacion SCP","order":104,"parentId":103,"scrollX":759.3333333333334,"scrollY":422},
 {"id":105,"expanded":false,"name":"Oficinas","order":105,"parentId":103,"scrollX":754,"scrollY":442},
 {"id":106,"expanded":false,"name":"Pasillo","order":106,"parentId":103,"scrollX":534,"scrollY":312},
-{"id":107,"expanded":false,"name":"Ruta 66","order":107,"parentId":17,"scrollX":727.6363636363636,"scrollY":390},
-{"id":108,"expanded":true,"name":"Puerto Naval","order":108,"parentId":17,"scrollX":915.4285714285713,"scrollY":501.4285714285714},
+{"id":107,"expanded":false,"name":"Ruta 66","order":107,"parentId":17,"scrollX":1233.8181818181818,"scrollY":690.5454545454546},
+{"id":108,"expanded":true,"name":"Puerto Naval","order":108,"parentId":17,"scrollX":1233.8181818181818,"scrollY":1336.3636363636365},
 {"id":109,"expanded":false,"name":"Torre de Control","order":109,"parentId":108,"scrollX":591.2727272727273,"scrollY":327.8181818181818}
 ]
