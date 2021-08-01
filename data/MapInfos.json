@@ -107,5 +107,5 @@ null,
 {"id":105,"expanded":false,"name":"Oficinas","order":105,"parentId":103,"scrollX":754,"scrollY":442},
 {"id":106,"expanded":false,"name":"Pasillo","order":106,"parentId":103,"scrollX":534,"scrollY":312},
 {"id":107,"expanded":false,"name":"Ruta 66","order":107,"parentId":17,"scrollX":816,"scrollY":880},
-{"id":108,"expanded":false,"name":"Puerto Naval","order":108,"parentId":17,"scrollX":1274.1818181818182,"scrollY":1201.0909090909092}
+{"id":108,"expanded":false,"name":"Puerto Naval","order":108,"parentId":17,"scrollX":1332,"scrollY":732.6666666666666}
 ]
