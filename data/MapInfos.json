@@ -100,9 +100,9 @@ null,
 {"id":98,"expanded":false,"name":"Habitacion de Jerome","order":30,"parentId":28,"scrollX":832,"scrollY":640},
 {"id":99,"expanded":false,"name":"Puertas Al Infierno","order":94,"parentId":56,"scrollX":754,"scrollY":1240},
 {"id":100,"expanded":true,"name":"Patio","order":100,"parentId":17,"scrollX":816,"scrollY":624},
-{"id":101,"expanded":true,"name":"Entrada a la Fundacion","order":101,"parentId":17,"scrollX":1515.5555555555557,"scrollY":511.1111111111111},
-{"id":102,"expanded":true,"name":"El Baño Publico","order":102,"parentId":101,"scrollX":832,"scrollY":640},
-{"id":103,"expanded":true,"name":"La Fundacion S.C.P.","order":103,"parentId":102,"scrollX":582.5454545454546,"scrollY":387.2727272727273},
+{"id":101,"expanded":true,"name":"Entrada a la Fundacion","order":101,"parentId":17,"scrollX":1406,"scrollY":562},
+{"id":102,"expanded":true,"name":"El Baño Publico","order":102,"parentId":101,"scrollX":759.3333333333334,"scrollY":422},
+{"id":103,"expanded":true,"name":"La Fundacion S.C.P.","order":103,"parentId":102,"scrollX":759.3333333333334,"scrollY":422},
 {"id":104,"expanded":false,"name":"Fundacion SCP","order":104,"parentId":103,"scrollX":832,"scrollY":640},
 {"id":105,"expanded":false,"name":"Oficinas","order":105,"parentId":103,"scrollX":832,"scrollY":640}
 ]
