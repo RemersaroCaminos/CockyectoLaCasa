@@ -68,7 +68,7 @@ null,
 {"id":66,"expanded":false,"name":"Pasillo Este","order":72,"parentId":59,"scrollX":712,"scrollY":490},
 {"id":67,"expanded":false,"name":"Llave del Leon","order":71,"parentId":59,"scrollX":722.6666666666666,"scrollY":400.6666666666667},
 {"id":68,"expanded":false,"name":"Campo Pokemon","order":97,"parentId":17,"scrollX":712,"scrollY":655.3333333333334},
-{"id":69,"expanded":false,"name":"Teatro","order":98,"parentId":17,"scrollX":636,"scrollY":688.909090909091},
+{"id":69,"expanded":false,"name":"Teatro","order":98,"parentId":17,"scrollX":954,"scrollY":381.5},
 {"id":70,"expanded":false,"name":"Escalera Noroeste","order":67,"parentId":59,"scrollX":722.6666666666666,"scrollY":400.6666666666667},
 {"id":71,"expanded":false,"name":"Sala del Te","order":68,"parentId":59,"scrollX":722.6666666666666,"scrollY":400.6666666666667},
 {"id":72,"expanded":false,"name":"Pasillo Norte","order":69,"parentId":59,"scrollX":722.6666666666666,"scrollY":400.6666666666667},
@@ -111,6 +111,6 @@ null,
 {"id":109,"expanded":true,"name":"Torre de Control","order":109,"parentId":108,"scrollX":534,"scrollY":323.5},
 {"id":110,"expanded":false,"name":"Segundo Piso","order":110,"parentId":109,"scrollX":534,"scrollY":323.5},
 {"id":111,"expanded":false,"name":"Tercer Piso ","order":111,"parentId":109,"scrollX":534,"scrollY":323.5},
-{"id":112,"expanded":false,"name":"Cuarto Piso","order":112,"parentId":109,"scrollX":534,"scrollY":323.5},
-{"id":113,"expanded":false,"name":"Barco","order":113,"parentId":108,"scrollX":816,"scrollY":2192.5}
+{"id":112,"expanded":false,"name":"Cuarto Piso","order":112,"parentId":109,"scrollX":534,"scrollY":300.5},
+{"id":113,"expanded":false,"name":"Barco","order":113,"parentId":108,"scrollX":648,"scrollY":2176.5}
 ]
