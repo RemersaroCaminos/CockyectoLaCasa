@@ -107,10 +107,10 @@ null,
 {"id":105,"expanded":false,"name":"Oficinas","order":105,"parentId":103,"scrollX":754,"scrollY":442},
 {"id":106,"expanded":false,"name":"Pasillo","order":106,"parentId":103,"scrollX":534,"scrollY":312},
 {"id":107,"expanded":false,"name":"Ruta 66","order":107,"parentId":17,"scrollX":728,"scrollY":1059.5},
-{"id":108,"expanded":true,"name":"Puerto Naval","order":108,"parentId":17,"scrollX":1364,"scrollY":624},
-{"id":109,"expanded":false,"name":"Torre de Control","order":109,"parentId":108,"scrollX":832,"scrollY":640},
+{"id":108,"expanded":true,"name":"Puerto Naval","order":108,"parentId":17,"scrollX":1381,"scrollY":381.5},
+{"id":109,"expanded":true,"name":"Torre de Control","order":109,"parentId":108,"scrollX":534,"scrollY":323.5},
 {"id":110,"expanded":false,"name":"Segundo Piso","order":110,"parentId":109,"scrollX":534,"scrollY":323.5},
 {"id":111,"expanded":false,"name":"Tercer Piso ","order":111,"parentId":109,"scrollX":534,"scrollY":323.5},
 {"id":112,"expanded":false,"name":"Cuarto Piso","order":112,"parentId":109,"scrollX":534,"scrollY":323.5},
-{"id":113,"expanded":false,"name":"Barco","order":113,"parentId":108,"scrollX":816,"scrollY":2192}
+{"id":113,"expanded":false,"name":"Barco","order":113,"parentId":108,"scrollX":816,"scrollY":2192.5}
 ]
