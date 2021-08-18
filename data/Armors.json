@@ -23,6 +23,6 @@ null,
 {"id":21,"atypeId":1,"description":"Te proteje de la Radiacion. Añade la Habilidad \nTonkness","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":42,"value":1}],"iconIndex":135,"name":"Traje Anti Radiacion","note":"","params":[0,25,0,0,0,5,0,0],"price":0},
 {"id":22,"atypeId":5,"description":"Puede derretir el hielo. Añade la Habilidad Llamarada","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":99,"value":1}],"iconIndex":212,"name":"Estufa","note":"","params":[0,0,0,2,0,2,0,0],"price":0},
 {"id":23,"atypeId":5,"description":"Te permite pasar a cualquier lugar donde el embajador\ntenga influencia. Añade la Habilidad Emborrachar","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":100,"value":1}],"iconIndex":240,"name":"Emblema del Embajador","note":"","params":[0,0,2,0,2,0,3,0],"price":0},
-{"id":24,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":24,"atypeId":1,"description":"Abre la puerta del laboratorio alquimico. Añade la \nhabilidad de Mejora Radioactiva","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":90,"value":1}],"iconIndex":164,"name":"Esencia del Alquimista","note":"","params":[0,25,0,0,4,2,0,0],"price":0},
 {"id":25,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
