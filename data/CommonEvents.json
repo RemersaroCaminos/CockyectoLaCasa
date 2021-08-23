@@ -25,9 +25,9 @@ null,
 {"id":23,"list":[{"code":339,"indent":0,"parameters":[1,7,113,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"Dario Healing 6","switchId":1,"trigger":0},
 {"id":24,"list":[{"code":339,"indent":0,"parameters":[1,7,114,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"Dario Healing 8","switchId":1,"trigger":0},
 {"id":25,"list":[{"code":339,"indent":0,"parameters":[1,7,115,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"Dario Healing 10","switchId":1,"trigger":0},
-{"id":26,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":27,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":28,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":29,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":26,"list":[{"code":339,"indent":0,"parameters":[1,7,116,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"Dario Healing 3","switchId":1,"trigger":0},
+{"id":27,"list":[{"code":339,"indent":0,"parameters":[1,7,117,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"Dario Healing 6","switchId":1,"trigger":0},
+{"id":28,"list":[{"code":339,"indent":0,"parameters":[1,7,118,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"Dario Healing 8","switchId":1,"trigger":0},
+{"id":29,"list":[{"code":339,"indent":0,"parameters":[1,7,119,-2]},{"code":0,"indent":0,"parameters":[]}],"name":"Dario Healing 10","switchId":1,"trigger":0},
 {"id":30,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
