@@ -210,7 +210,7 @@ null,
 {"id":208,"expanded":false,"name":"Segundo Piso","order":34,"parentId":29,"scrollX":474.6666666666667,"scrollY":356.8888888888889},
 {"id":209,"expanded":false,"name":"Contencion del SCP-914","order":173,"parentId":182,"scrollX":534,"scrollY":409.5},
 {"id":210,"expanded":true,"name":"Contencion SCP-860","order":174,"parentId":182,"scrollX":474.6666666666667,"scrollY":356.8888888888889},
-{"id":211,"expanded":false,"name":"SCP-860-1","order":175,"parentId":210,"scrollX":534,"scrollY":419.5},
+{"id":211,"expanded":false,"name":"SCP-860-1","order":175,"parentId":210,"scrollX":759.3333333333334,"scrollY":422},
 {"id":212,"expanded":false,"name":"Sala del Trance","order":176,"parentId":210,"scrollX":534,"scrollY":419.5},
 {"id":213,"expanded":false,"name":"Contencion del SCP-096","order":150,"parentId":156,"scrollX":474.6666666666667,"scrollY":356.8888888888889},
 {"id":214,"expanded":false,"name":"Contencion del SCP-062","order":146,"parentId":155,"scrollX":534,"scrollY":577.5}
