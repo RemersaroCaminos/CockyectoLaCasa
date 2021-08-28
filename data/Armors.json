@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":2,"atypeId":8,"description":"Te da la habilidad Mega Tacle","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":71,"value":1}],"iconIndex":137,"name":"Armadura de Tonk","note":"","params":[50,25,0,5,0,5,0,0],"price":300},
+{"id":2,"atypeId":8,"description":"Te da la habilidad Mega Tacle","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":71,"value":1}],"iconIndex":137,"name":"Armadura de Tonk","note":"","params":[50,25,0,2,0,2,0,0],"price":300},
 {"id":3,"atypeId":9,"description":"Te da la habilidad Its High Noon","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":72,"value":1}],"iconIndex":153,"name":"Armadura de Polvora","note":"","params":[0,25,5,1,0,1,1,0],"price":300},
 {"id":4,"atypeId":10,"description":"Te da la habilidad Resistencia a la Muerte","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":73,"value":1}],"iconIndex":138,"name":"Armadura de Luz","note":"","params":[25,25,0,0,5,0,10,5],"price":300},
 {"id":5,"atypeId":11,"description":"Te da la habilidad","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Armadura de Sangre","note":"","params":[0,25,5,1,0,1,3,0],"price":300},
