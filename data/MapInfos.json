@@ -242,11 +242,11 @@ null,
 {"id":240,"expanded":true,"name":"Primer Piso","order":241,"parentId":239,"scrollX":1013.1428571428571,"scrollY":1554.8571428571427},
 {"id":241,"expanded":false,"name":"Salon de Relajacion","order":242,"parentId":240,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":242,"expanded":true,"name":"El Centro de la Tierra","order":243,"parentId":1,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
-{"id":243,"expanded":false,"name":"Escalera al Shopping","order":244,"parentId":242,"scrollX":832,"scrollY":640},
+{"id":243,"expanded":false,"name":"Escalera al Shopping","order":244,"parentId":242,"scrollX":813,"scrollY":457.5},
 {"id":244,"expanded":false,"name":"Aeropuerto","order":59,"parentId":39,"scrollX":857.4545454545455,"scrollY":396},
-{"id":245,"expanded":false,"name":"El Centro de la Tierra","order":245,"parentId":242,"scrollX":816,"scrollY":640},
-{"id":246,"expanded":false,"name":"Polo Este","order":246,"parentId":242,"scrollX":1424,"scrollY":984},
-{"id":247,"expanded":false,"name":"Camara de la Bruja","order":247,"parentId":242,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
-{"id":248,"expanded":false,"name":"Caverna de Magma Vacia","order":248,"parentId":242,"scrollX":1424,"scrollY":814},
-{"id":249,"expanded":false,"name":"El Nucleo","order":249,"parentId":242,"scrollX":816,"scrollY":1312}
+{"id":245,"expanded":false,"name":"El Centro de la Tierra","order":245,"parentId":242,"scrollX":1165.0909090909092,"scrollY":905.4545454545455},
+{"id":246,"expanded":false,"name":"Caverna de Magma","order":246,"parentId":242,"scrollX":1234.909090909091,"scrollY":648},
+{"id":247,"expanded":false,"name":"Camara de la Bruja","order":247,"parentId":242,"scrollX":801,"scrollY":550.5},
+{"id":248,"expanded":false,"name":"Caverna de Magma Vacia","order":248,"parentId":242,"scrollX":1695,"scrollY":678},
+{"id":249,"expanded":false,"name":"El Nucleo","order":249,"parentId":242,"scrollX":1165.0909090909092,"scrollY":665.4545454545455}
 ]
