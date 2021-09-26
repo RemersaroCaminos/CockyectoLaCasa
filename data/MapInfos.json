@@ -246,11 +246,11 @@ null,
 {"id":244,"expanded":false,"name":"Aeropuerto","order":59,"parentId":39,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":245,"expanded":false,"name":"El Centro de la Tierra","order":246,"parentId":242,"scrollX":872,"scrollY":772},
 {"id":246,"expanded":false,"name":"Caverna de Magma","order":247,"parentId":242,"scrollX":1602,"scrollY":1179},
-{"id":247,"expanded":false,"name":"Camara de la Bruja","order":248,"parentId":242,"scrollX":801,"scrollY":457.5},
-{"id":248,"expanded":false,"name":"Caverna de Magma Vacia","order":249,"parentId":242,"scrollX":1358,"scrollY":1806},
-{"id":249,"expanded":false,"name":"El Nucleo","order":250,"parentId":242,"scrollX":1068,"scrollY":1118},
+{"id":247,"expanded":false,"name":"Camara de la Bruja","order":248,"parentId":242,"scrollX":801,"scrollY":550.5},
+{"id":248,"expanded":false,"name":"Caverna de Magma Vacia","order":249,"parentId":242,"scrollX":1444.5,"scrollY":1909.5},
+{"id":249,"expanded":false,"name":"El Nucleo","order":250,"parentId":242,"scrollX":801,"scrollY":1117.5},
 {"id":250,"expanded":false,"name":"Relojeria","order":243,"parentId":240,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
-{"id":251,"expanded":false,"name":"Polo Este","order":251,"parentId":242,"scrollX":1068,"scrollY":1310},
-{"id":252,"expanded":false,"name":"Cochera para Aviones","order":252,"parentId":242,"scrollX":1084,"scrollY":610},
-{"id":253,"expanded":false,"name":"Caverna Vacia","order":253,"parentId":242,"scrollX":1068,"scrollY":594}
+{"id":251,"expanded":false,"name":"Polo Este","order":251,"parentId":242,"scrollX":1119,"scrollY":1474.5},
+{"id":252,"expanded":false,"name":"Cochera para Aviones","order":252,"parentId":242,"scrollX":813,"scrollY":457.5},
+{"id":253,"expanded":false,"name":"Caverna Vacia","order":253,"parentId":242,"scrollX":999,"scrollY":2014.5}
 ]
