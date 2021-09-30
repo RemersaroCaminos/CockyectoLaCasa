@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"La Casa","order":1,"parentId":0,"scrollX":1084,"scrollY":610},
 {"id":2,"expanded":true,"name":"Primer Piso","order":2,"parentId":1,"scrollX":1084.3636363636363,"scrollY":408},
-{"id":3,"expanded":false,"name":"Las 9 Puertas","order":3,"parentId":2,"scrollX":388.3636363636364,"scrollY":259.6363636363636},
+{"id":3,"expanded":false,"name":"Las 9 Puertas","order":3,"parentId":2,"scrollX":388.3636363636364,"scrollY":3282.181818181818},
 {"id":4,"expanded":true,"name":"Hall","order":15,"parentId":2,"scrollX":523.6363636363636,"scrollY":240.72727272727272},
 {"id":5,"expanded":true,"name":"El Viejo y Envejecido pasillo","order":12,"parentId":2,"scrollX":388.3636363636364,"scrollY":594.1818181818181},
 {"id":6,"expanded":false,"name":"Cocina Laser","order":6,"parentId":2,"scrollX":427.6363636363636,"scrollY":408},
