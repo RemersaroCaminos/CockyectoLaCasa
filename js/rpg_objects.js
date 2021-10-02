@@ -1721,7 +1721,7 @@ Game_Action.prototype.elementsMaxRate = function(target, elements) {
 };
 
 Game_Action.prototype.applyCritical = function(damage) {
-    return damage * 2;
+    return damage * 1.75;
 };
 
 Game_Action.prototype.applyVariance = function(damage, variance) {
