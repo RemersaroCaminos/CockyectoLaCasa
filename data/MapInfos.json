@@ -165,7 +165,7 @@ null,
 {"id":163,"expanded":false,"name":"La Lavanderia ","order":202,"parentId":117,"scrollX":582.5454545454546,"scrollY":332.72727272727275},
 {"id":164,"expanded":false,"name":"Puertas de la Empresa","order":203,"parentId":117,"scrollX":582.5454545454546,"scrollY":373.0909090909091},
 {"id":165,"expanded":false,"name":"Pasillo","order":204,"parentId":117,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
-{"id":166,"expanded":true,"name":"Sala de Tortura","order":205,"parentId":117,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
+{"id":166,"expanded":true,"name":"Sala de Tortura","order":205,"parentId":117,"scrollX":534,"scrollY":319},
 null,
 {"id":168,"expanded":false,"name":"Armeria de Armas para Armas","order":207,"parentId":117,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
 {"id":169,"expanded":false,"name":"La Serenisima","order":208,"parentId":117,"scrollX":591.2727272727273,"scrollY":332.72727272727275},
@@ -273,5 +273,5 @@ null,
 {"id":271,"expanded":false,"name":"Cuarto de Violaciones de Leyes de la Fisica","order":18,"parentId":2,"scrollX":474.6666666666667,"scrollY":415.1111111111111},
 {"id":272,"expanded":false,"name":"Habitacion de Bruno","order":33,"parentId":30,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":273,"expanded":false,"name":"Habitacion de Tadeo","order":42,"parentId":265,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":274,"expanded":false,"name":"Las Catacumbias","order":206,"parentId":166,"scrollX":625.0909090909091,"scrollY":411.2727272727273}
+{"id":274,"expanded":false,"name":"Las Catacumbias","order":206,"parentId":166,"scrollX":793,"scrollY":568}
 ]
