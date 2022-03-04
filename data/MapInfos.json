@@ -280,5 +280,5 @@ null,
 {"id":278,"expanded":false,"name":"Sala Inundada","order":227,"parentId":117,"scrollX":811,"scrollY":640},
 {"id":279,"expanded":false,"name":"China Town","order":214,"parentId":178,"scrollX":939.5555555555555,"scrollY":958.2222222222222},
 null,
-{"id":281,"expanded":true,"name":"Boss Rush","order":280,"parentId":0,"scrollX":1228.5,"scrollY":679.5}
+{"id":281,"expanded":true,"name":"Boss Rush","order":280,"parentId":0,"scrollX":811,"scrollY":600}
 ]
