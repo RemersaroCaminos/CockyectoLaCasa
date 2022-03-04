@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"La Casa","order":1,"parentId":0,"scrollX":648.8,"scrollY":640},
+{"id":1,"expanded":false,"name":"La Casa","order":1,"parentId":0,"scrollX":811,"scrollY":640},
 {"id":2,"expanded":true,"name":"Primer Piso","order":2,"parentId":1,"scrollX":655.2,"scrollY":356},
 {"id":3,"expanded":false,"name":"Las 9 Puertas","order":3,"parentId":2,"scrollX":720.8888888888889,"scrollY":413.3333333333333},
-{"id":4,"expanded":true,"name":"Hall","order":15,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"Hall","order":15,"parentId":2,"scrollX":819,"scrollY":453},
 {"id":5,"expanded":true,"name":"El Viejo y Envejecido pasillo","order":12,"parentId":2,"scrollX":720.8888888888889,"scrollY":413.3333333333333},
 {"id":6,"expanded":false,"name":"Cocina Laser","order":6,"parentId":2,"scrollX":728,"scrollY":402.6666666666667},
 {"id":7,"expanded":true,"name":"Sala de juntas Cristianas","order":13,"parentId":2,"scrollX":728,"scrollY":402.6666666666667},
@@ -267,7 +267,7 @@ null,
 {"id":265,"expanded":false,"name":"Interseccion","order":41,"parentId":16,"scrollX":728,"scrollY":402.6666666666667},
 {"id":266,"expanded":false,"name":"Relax Place","order":44,"parentId":16,"scrollX":728,"scrollY":402.6666666666667},
 {"id":267,"expanded":false,"name":"Valcon","order":47,"parentId":16,"scrollX":728,"scrollY":402.6666666666667},
-{"id":268,"expanded":true,"name":"Creditos","order":279,"parentId":1,"scrollX":720.8888888888889,"scrollY":2477.3333333333335},
+{"id":268,"expanded":true,"name":"Creditos","order":279,"parentId":1,"scrollX":648.8,"scrollY":548.8},
 {"id":269,"expanded":false,"name":"Sala Dev Room","order":17,"parentId":2,"scrollX":728,"scrollY":402.6666666666667},
 {"id":270,"expanded":false,"name":"...","order":48,"parentId":16,"scrollX":728,"scrollY":402.6666666666667},
 {"id":271,"expanded":false,"name":"Cuarto de Violaciones de Leyes de la Fisica","order":18,"parentId":2,"scrollX":819,"scrollY":453},
@@ -279,5 +279,6 @@ null,
 {"id":277,"expanded":false,"name":"Metalurgica","order":215,"parentId":178,"scrollX":939.5555555555555,"scrollY":804.4444444444445},
 {"id":278,"expanded":false,"name":"Sala Inundada","order":227,"parentId":117,"scrollX":811,"scrollY":640},
 {"id":279,"expanded":false,"name":"China Town","order":214,"parentId":178,"scrollX":939.5555555555555,"scrollY":958.2222222222222},
-{"id":280,"expanded":true,"name":"Boss Rush","order":280,"parentId":0,"scrollX":648.8,"scrollY":453.6}
+null,
+{"id":281,"expanded":true,"name":"Boss Rush","order":280,"parentId":0,"scrollX":1228.5,"scrollY":679.5}
 ]
